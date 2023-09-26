@@ -1,0 +1,5 @@
+n=10 Runtime:0 clock(s)
+n=15 Runtime:0 clock(s)
+n=20 Runtime:0 clock(s)
+n=25 Runtime:0 clock(s)
+n=30 Runtime:0 clock(s)
